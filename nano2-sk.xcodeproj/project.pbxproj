@@ -12,6 +12,23 @@
 		A413E7C02BF46FEE004AEB67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A413E7BF2BF46FEE004AEB67 /* ViewController.swift */; };
 		A413E7C32BF46FEE004AEB67 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A413E7C22BF46FEE004AEB67 /* Base */; };
 		A413E7C52BF46FEF004AEB67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A413E7C42BF46FEF004AEB67 /* Assets.xcassets */; };
+		A4344CD52C03B5D100ABCCB4 /* Pixemon-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4344CD12C03B39A00ABCCB4 /* Pixemon-Regular.ttf */; };
+		A44120D12BFDA39F0076E65E /* +CoachingOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44120D02BFDA39F0076E65E /* +CoachingOverlay.swift */; };
+		A44120D32BFDA46E0076E65E /* ThresholdPanGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44120D22BFDA46E0076E65E /* ThresholdPanGesture.swift */; };
+		A44120D62BFDA7100076E65E /* +UIGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44120D52BFDA7100076E65E /* +UIGestureRecognizer.swift */; };
+		A44120DA2BFDB00B0076E65E /* +SCNNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44120D92BFDB00B0076E65E /* +SCNNode.swift */; };
+		A4961E812BFB1E8800CB74E7 /* cel.shader in Sources */ = {isa = PBXBuildFile; fileRef = A4961E802BFB1E8800CB74E7 /* cel.shader */; };
+		A4A9B2A72C03EE0A00FEFDD4 /* +ARSCNViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A9B2A62C03EE0A00FEFDD4 /* +ARSCNViewDelegate.swift */; };
+		A4A9B2A92C03FA6300FEFDD4 /* +Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A9B2A82C03FA6300FEFDD4 /* +Gestures.swift */; };
+		A4A9B2AC2C03FC2E00FEFDD4 /* +GameLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A9B2AB2C03FC2E00FEFDD4 /* +GameLogic.swift */; };
+		A4A9B2AE2C03FD8500FEFDD4 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A9B2AD2C03FD8500FEFDD4 /* GameModel.swift */; };
+		A4BB5D6F2C03BA8D00058CFD /* PrintedCircuitBoard.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4BB5D6E2C03BA6400058CFD /* PrintedCircuitBoard.ttf */; };
+		A4BB5D722C03BD7E00058CFD /* RedditMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4BB5D712C03BD7D00058CFD /* RedditMono-Regular.ttf */; };
+		A4BB5D742C03DC2A00058CFD /* basis33.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4BB5D732C03DC2A00058CFD /* basis33.ttf */; };
+		A4BB5D922C03E2F700058CFD /* VirtualObjectInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BB5D912C03E2F700058CFD /* VirtualObjectInteraction.swift */; };
+		A4BB5D992C03E59000058CFD /* +ARSCNView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BB5D982C03E59000058CFD /* +ARSCNView.swift */; };
+		A4BB5D9C2C03E7FD00058CFD /* +Shaders.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4BB5D9B2C03E7FD00058CFD /* +Shaders.swift */; };
+		A4C032F02BFC4A560083D271 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = A4C032EF2BFC4A560083D271 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +38,24 @@
 		A413E7BF2BF46FEE004AEB67 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A413E7C22BF46FEE004AEB67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A413E7C42BF46FEF004AEB67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A4344CD12C03B39A00ABCCB4 /* Pixemon-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pixemon-Regular.ttf"; sourceTree = "<group>"; };
+		A4344CD32C03B3B900ABCCB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A44120D02BFDA39F0076E65E /* +CoachingOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+CoachingOverlay.swift"; sourceTree = "<group>"; };
+		A44120D22BFDA46E0076E65E /* ThresholdPanGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThresholdPanGesture.swift; sourceTree = "<group>"; };
+		A44120D52BFDA7100076E65E /* +UIGestureRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+UIGestureRecognizer.swift"; sourceTree = "<group>"; };
+		A44120D92BFDB00B0076E65E /* +SCNNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+SCNNode.swift"; sourceTree = "<group>"; };
+		A4961E802BFB1E8800CB74E7 /* cel.shader */ = {isa = PBXFileReference; lastKnownFileType = text; path = cel.shader; sourceTree = "<group>"; };
+		A4A9B2A62C03EE0A00FEFDD4 /* +ARSCNViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+ARSCNViewDelegate.swift"; sourceTree = "<group>"; };
+		A4A9B2A82C03FA6300FEFDD4 /* +Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+Gestures.swift"; sourceTree = "<group>"; };
+		A4A9B2AB2C03FC2E00FEFDD4 /* +GameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+GameLogic.swift"; sourceTree = "<group>"; };
+		A4A9B2AD2C03FD8500FEFDD4 /* GameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
+		A4BB5D6E2C03BA6400058CFD /* PrintedCircuitBoard.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PrintedCircuitBoard.ttf; sourceTree = "<group>"; };
+		A4BB5D712C03BD7D00058CFD /* RedditMono-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RedditMono-Regular.ttf"; sourceTree = "<group>"; };
+		A4BB5D732C03DC2A00058CFD /* basis33.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = basis33.ttf; sourceTree = "<group>"; };
+		A4BB5D912C03E2F700058CFD /* VirtualObjectInteraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualObjectInteraction.swift; sourceTree = "<group>"; };
+		A4BB5D982C03E59000058CFD /* +ARSCNView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+ARSCNView.swift"; sourceTree = "<group>"; };
+		A4BB5D9B2C03E7FD00058CFD /* +Shaders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+Shaders.swift"; sourceTree = "<group>"; };
+		A4C032EF2BFC4A560083D271 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +72,7 @@
 		A413E7AF2BF46FEE004AEB67 = {
 			isa = PBXGroup;
 			children = (
+				A4C032EF2BFC4A560083D271 /* Localizable.xcstrings */,
 				A413E7BA2BF46FEE004AEB67 /* nano2-sk */,
 				A413E7B92BF46FEE004AEB67 /* Products */,
 			);
@@ -53,13 +89,94 @@
 		A413E7BA2BF46FEE004AEB67 /* nano2-sk */ = {
 			isa = PBXGroup;
 			children = (
+				A4A9B2AA2C03FA8500FEFDD4 /* Game */,
+				A4344CD32C03B3B900ABCCB4 /* Info.plist */,
+				A4BB5D932C03E34200058CFD /* AR */,
+				A4BB5D702C03BAE100058CFD /* Resources */,
+				A44120D42BFDA4AF0076E65E /* Gestures */,
+				A44120CF2BFDA38B0076E65E /* Extensions */,
+				A4961E7F2BFB1E7100CB74E7 /* Shaders */,
 				A413E7BB2BF46FEE004AEB67 /* AppDelegate.swift */,
-				A413E7BD2BF46FEE004AEB67 /* art.scnassets */,
-				A413E7BF2BF46FEE004AEB67 /* ViewController.swift */,
 				A413E7C12BF46FEE004AEB67 /* Main.storyboard */,
+				A413E7BF2BF46FEE004AEB67 /* ViewController.swift */,
 				A413E7C42BF46FEF004AEB67 /* Assets.xcassets */,
+				A413E7BD2BF46FEE004AEB67 /* art.scnassets */,
 			);
 			path = "nano2-sk";
+			sourceTree = "<group>";
+		};
+		A4344CD02C03B34000ABCCB4 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A4BB5D732C03DC2A00058CFD /* basis33.ttf */,
+				A4BB5D712C03BD7D00058CFD /* RedditMono-Regular.ttf */,
+				A4BB5D6E2C03BA6400058CFD /* PrintedCircuitBoard.ttf */,
+				A4344CD12C03B39A00ABCCB4 /* Pixemon-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		A44120CF2BFDA38B0076E65E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A44120D72BFDAF480076E65E /* +ViewController */,
+				A44120D52BFDA7100076E65E /* +UIGestureRecognizer.swift */,
+				A44120D92BFDB00B0076E65E /* +SCNNode.swift */,
+				A4BB5D982C03E59000058CFD /* +ARSCNView.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A44120D42BFDA4AF0076E65E /* Gestures */ = {
+			isa = PBXGroup;
+			children = (
+				A44120D22BFDA46E0076E65E /* ThresholdPanGesture.swift */,
+			);
+			path = Gestures;
+			sourceTree = "<group>";
+		};
+		A44120D72BFDAF480076E65E /* +ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A44120D02BFDA39F0076E65E /* +CoachingOverlay.swift */,
+				A4BB5D9B2C03E7FD00058CFD /* +Shaders.swift */,
+				A4A9B2A62C03EE0A00FEFDD4 /* +ARSCNViewDelegate.swift */,
+				A4A9B2A82C03FA6300FEFDD4 /* +Gestures.swift */,
+			);
+			path = "+ViewController";
+			sourceTree = "<group>";
+		};
+		A4961E7F2BFB1E7100CB74E7 /* Shaders */ = {
+			isa = PBXGroup;
+			children = (
+				A4961E802BFB1E8800CB74E7 /* cel.shader */,
+			);
+			path = Shaders;
+			sourceTree = "<group>";
+		};
+		A4A9B2AA2C03FA8500FEFDD4 /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				A4A9B2AB2C03FC2E00FEFDD4 /* +GameLogic.swift */,
+				A4A9B2AD2C03FD8500FEFDD4 /* GameModel.swift */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		A4BB5D702C03BAE100058CFD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A4344CD02C03B34000ABCCB4 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A4BB5D932C03E34200058CFD /* AR */ = {
+			isa = PBXGroup;
+			children = (
+				A4BB5D912C03E2F700058CFD /* VirtualObjectInteraction.swift */,
+			);
+			path = AR;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -104,6 +221,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = A413E7AF2BF46FEE004AEB67;
 			productRefGroup = A413E7B92BF46FEE004AEB67 /* Products */;
@@ -120,9 +238,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4BB5D722C03BD7E00058CFD /* RedditMono-Regular.ttf in Resources */,
+				A4BB5D6F2C03BA8D00058CFD /* PrintedCircuitBoard.ttf in Resources */,
 				A413E7BE2BF46FEE004AEB67 /* art.scnassets in Resources */,
 				A413E7C52BF46FEF004AEB67 /* Assets.xcassets in Resources */,
+				A4C032F02BFC4A560083D271 /* Localizable.xcstrings in Resources */,
 				A413E7C32BF46FEE004AEB67 /* Base in Resources */,
+				A4344CD52C03B5D100ABCCB4 /* Pixemon-Regular.ttf in Resources */,
+				A4BB5D742C03DC2A00058CFD /* basis33.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -134,7 +257,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				A413E7C02BF46FEE004AEB67 /* ViewController.swift in Sources */,
+				A4A9B2A72C03EE0A00FEFDD4 /* +ARSCNViewDelegate.swift in Sources */,
+				A44120D62BFDA7100076E65E /* +UIGestureRecognizer.swift in Sources */,
+				A44120DA2BFDB00B0076E65E /* +SCNNode.swift in Sources */,
+				A4BB5D9C2C03E7FD00058CFD /* +Shaders.swift in Sources */,
+				A4A9B2AE2C03FD8500FEFDD4 /* GameModel.swift in Sources */,
 				A413E7BC2BF46FEE004AEB67 /* AppDelegate.swift in Sources */,
+				A4A9B2AC2C03FC2E00FEFDD4 /* +GameLogic.swift in Sources */,
+				A4961E812BFB1E8800CB74E7 /* cel.shader in Sources */,
+				A4A9B2A92C03FA6300FEFDD4 /* +Gestures.swift in Sources */,
+				A44120D12BFDA39F0076E65E /* +CoachingOverlay.swift in Sources */,
+				A44120D32BFDA46E0076E65E /* ThresholdPanGesture.swift in Sources */,
+				A4BB5D922C03E2F700058CFD /* VirtualObjectInteraction.swift in Sources */,
+				A4BB5D992C03E59000058CFD /* +ARSCNView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +415,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YTWBVW7W5F;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "nano2-sk/Info.plist";
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -309,6 +445,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = YTWBVW7W5F;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "nano2-sk/Info.plist";
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
